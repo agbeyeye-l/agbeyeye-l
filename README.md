@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @agbeyeye
 - 👀 I’m interested in software development
 - 🌱 I’m currently working on web application and machine learning projects
-- 💞️ I’m looking to collaborate on machine learning projects
+- 💞️ I’m looking to collaborate on web application projects
 - 📫 How to reach me ...
 
 <!---
