@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @agbeyeye
+- 👋 Hi, I’m me
 - 👀 I’m interested in software development
 - 🌱 I’m currently working on web application and machine learning projects
 - 💞️ I’m looking to collaborate on web application projects
